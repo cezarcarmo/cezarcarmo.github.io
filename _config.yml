@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+title: Meu Portfólio
+description: Projetos e tutoriais de Engenharia de Dados
+baseurl: "" # Deixe vazio para GitHub Pages
+url: "https://cezarcarmo.github.io"
+
+# Configurações de navegação
+author: Cezar Augusto Meira Carmo
+email: dataengineercezar@gmail.com
