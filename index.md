@@ -16,4 +16,3 @@ Confira abaixo os artigos disponíveis:
 ---
 
 Contato: [LinkedIn](https://www.linkedin.com/in/cezarcarmo/)
-
